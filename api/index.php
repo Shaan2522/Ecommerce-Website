@@ -661,7 +661,8 @@
 	</div>
 
 	 <!-- Footer Start -->
-	 <?php include 'include/footer.php';  ?>
+	 <?php 
+	 include 'include/footer.php';  ?>
     <!-- Footer End -->
 
 
